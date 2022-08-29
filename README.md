@@ -4,6 +4,10 @@
 int main() 
 {
 printf("hello world\n");
+  
+  printf("world\n");
+  
+  printf("hello world!!!!\n");
 
 system("puse");
 
